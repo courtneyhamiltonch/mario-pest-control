@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px){
+    h1 {
+        text-align: center;
+      }
+
+
+    button {
+        background-color: rgb(57, 114, 179);
+        margin-left: auto;
+    }
+
+    footer {
+        text-align: center;
+        position: relative;
+        top: 200px;
+    }
+    #ugly{
+        display: flex;
+    }
+
+    #pests{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 767px){
+  
+}
